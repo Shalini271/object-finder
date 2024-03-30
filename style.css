@@ -1,0 +1,18 @@
+body{
+    background-image:url("image.png");
+    background-size: cover;
+    background-position: center;
+    color:blue;
+}
+
+#heading{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding:10px;
+}
+
+canvas{
+    border-radius: 20px;
+    border:10px black groove;
+    margin-top:150px;
+}
